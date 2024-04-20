@@ -1,2 +1,2 @@
 Index  
-* [lesson01](./main/java/lesson01/note01.md)
+* [lesson01](./src/main/java/lesson01/note01.md)
