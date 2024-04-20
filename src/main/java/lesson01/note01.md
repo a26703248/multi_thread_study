@@ -8,9 +8,9 @@ Future 為 java 1.5 提供的異步執行規範介面
 
 
 ### FutureTask 有無取用結果時間差異
-無get結果
+無get結果   
 ![alt 無get結果](./images/FutureTaskNotGetResult.jpg)
-有get結果
+有get結果   
 ![alt 無get結果](./images/FutureTaskGetResult.jpg)
 
 
