@@ -11,7 +11,7 @@
 ## 並行和併發程序概念
 1. 進程(Process): 電腦OS執行分配資源的最小單位
 2. 線程(Thread): 電腦OS運算資源的最小單位
-3. 協程(coroutine): 線程內運算資源調度的單位，可由使用者自行調度   
+3. 協程(coroutine): 線程內運算資源調度的單位，可由使用者自行調度(Python、Javascript、C等語言有)   
 ![alt 進程、線程、協程關係圖](./src/main/resources/images/進程、線程、協程關係圖.png)
 
 ## Index
